@@ -19,5 +19,4 @@ INSERT INTO movies VALUES ('Avatar', ' Sam Worthington', 'Zoe Saldanal', 'James 
 Nolan',2012),('Skyfall','Daniel Craig','Naomie Harris',' Sam Mendes',2012);
 
 SELECT * FROM movies;
-
 SELECT Name FROM movies where Actor="Daniel Craig";
